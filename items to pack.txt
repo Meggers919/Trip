@@ -1,5 +1,10 @@
-Clothese List
+Clothes List
 ---------------
 -Shorts
 -t-Shirts
 -sandels
+
+Other
+---------------
+-Books
+-Headphones
