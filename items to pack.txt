@@ -2,9 +2,14 @@ Clothes List
 ---------------
 -Shorts
 -t-Shirts
--sandels
+-Sandels
+-Swimsuit
+-Sundress
+-flip flops
 
 Other
 ---------------
 -Books
 -Headphones
+-Mask
+-Fins
